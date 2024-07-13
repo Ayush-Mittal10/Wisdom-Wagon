@@ -77,7 +77,7 @@ Wisdom Wagon is an online platform offering a wide range of coding courses and r
 
    ```bash
    cd backend
-   npm start
+   node \index.js
    ```
 
    The server should start on `http://localhost:3000`.
